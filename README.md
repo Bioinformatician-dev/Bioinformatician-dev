@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **salmahafeez575@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/salma-hafeez-523430331](www.linkedin.com/in/salma-hafeez-523430331)
+- 📄 Know about my experiences [www.linkedin.com/in/salma-hafeez]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

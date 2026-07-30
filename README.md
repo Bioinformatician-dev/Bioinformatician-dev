@@ -7,11 +7,7 @@
 
 - 🔭 I’m currently working on **Computer Vision project**
 
-- 🌱 I’m currently learning **Django**
-
 - 👯 I’m looking to collaborate on **Biomedical image analysis**
-
-- 🤝 I’m looking for help with **DevOps**
 
 - 💬 Ask me about **AI in biomedicine**
 

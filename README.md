@@ -28,10 +28,10 @@
 <tr>
 <td width="60%" valign="top">
 
-I'm a **bioinformatician** who lives at the intersection of wet-lab biology and computational rigor. My days are spent wrangling FASTQ files, building clustering pipelines, and chasing the signal buried in single-cell noise.
+I'm a bioinformatician who lives at the intersection of wet-lab biology and computational rigor. My days are spent wrangling FASTQ files, building clustering pipelines, and chasing the signal buried in single-cell noise.
 
-- 🔭 Currently building **reproducible pipelines** for translational genomics research
-- 🌱 Deep-diving into **spatial omics** and multi-modal data integration
+- 🔭 Currently building reproducible pipelines for translational genomics research
+- 🌱 Deep-diving into spatial omics and multi-modal data integration
 - 🤝 Open to collaborating on **biomedical data analysis** & open-source bioinformatics tools
 - 🎓 Trained at **NUST Islamabad** · **COMSATS** · **MDC-BIMSB, Berlin**
 - 📫 Reach me at **salmahafeez575@gmail.com**
@@ -141,6 +141,29 @@ Version-controlled, documented workflows built for one-command reruns.
 <p align="center">
   <img src="https://media.giphy.com/media/YlmI36YAWe7KScC7hK/giphy.gif" width="90" alt="DNA strand divider" />
 </p>
+
+<!-- ════════════════════════  FROM THE MICROSCOPE  ════════════════════════ -->
+
+## 🔬 From the Microscope
+
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+<img src="https://media.giphy.com/media/d9zTJCNhA8NgyIEcOr/giphy.gif" width="260" alt="Real fluorescence microscopy footage of cell development, courtesy of EMBL" /><br/>
+<sub><b>Cells, dividing and developing</b><br/>fluorescence microscopy · <a href="https://www.embl.org/">EMBL</a></sub>
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://media.giphy.com/media/CtE8FTWnTxZoOm8EcL/giphy.gif" width="260" alt="Real fluorescence microscopy footage of actin filaments, courtesy of EMBL" /><br/>
+<sub><b>Actin, the cell's scaffolding</b><br/>structural protein in action · <a href="https://www.embl.org/">EMBL</a></sub>
+
+</td>
+</tr>
+</table>
+
+<p align="center"><sub>Real lab footage, not stock animation — because the actual biology is more interesting anyway.</sub></p>
 
 <!-- ════════════════════════  PROJECTS  ════════════════════════ -->
 
@@ -258,7 +281,7 @@ Version-controlled, documented workflows built for one-command reruns.
 </p>
 
 <p align="center">
-  <i>🧫 NUST Islamabad · COMSATS · Biocode Ltd. — trained at MDC-BIMSB, Berlin</i>
+  <i>🧫 NUST Islamabad · COMSATS · Biocode Ltd. trained at MDC-BIMSB, Berlin</i>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B9BFF,25:6BFFB8,50:FFD56B,75:FFA36B,100:FF6B6B&height=140&section=footer&animation=twinkling" width="100%" alt="" />

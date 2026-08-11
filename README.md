@@ -13,7 +13,7 @@
 
 ## 🧬 About Me
 
-I am a **Bioinformatician and computational biology researcher** with an MS in Bioinformatics and hands-on experience in **NGS, transcriptomics, single-cell genomics, multi-omics integration, and machine learning for biomedical data**.
+I am a Bioinformatician and computational biology researcher with an MS in Bioinformatics and hands-on experience in NGS, transcriptomics, single-cell genomics, multi-omics integration, and machine learning for biomedical data.
 
 My work focuses on developing reproducible computational workflows and extracting biologically meaningful insights from complex genomic and transcriptomic datasets.
 

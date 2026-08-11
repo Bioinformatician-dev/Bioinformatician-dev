@@ -9,6 +9,13 @@
   <a href="https://www.linkedin.com/in/salma-hafeez/">
     <img src="https://img.shields.io/badge/LinkedIn-Salma%20Hafeez-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=bioinformatician-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=bioinformatician-dev&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  </a>
 </p>
 
 ## 🧬 About Me
@@ -31,77 +38,57 @@ My work focuses on developing reproducible computational workflows and extractin
 
 ## 🛠️ Technical Skills
 
-### Programming
+**Programming:** Python · R · Bash · Perl
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" height="40" alt="R"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40" alt="Bash"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg" width="40" height="40" alt="Perl"/>
-</p>
+**Bioinformatics & Omics:** scRNA-seq · Bulk RNA-seq · ATAC-seq · NGS · Seurat · Bioconductor · Differential Expression · Clustering · Cell-Type Annotation · Variant Analysis
 
-**Python · R · Bash · Perl**
+**Workflow & Reproducibility:** Nextflow · Snakemake · Linux · HPC · Docker · Git/GitHub · R Markdown
 
-### 🧬 Bioinformatics & Omics
+**Data Analysis & Visualization:** Pandas · NumPy · scikit-learn · ggplot2 · Matplotlib · Seaborn · UMAP · t-SNE · Heatmaps · Violin Plots
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" height="40" alt="R"/>
-</p>
+**Genomics Tools:** SAMtools · GATK · ANNOVAR · Ensembl VEP
 
-**scRNA-seq · Bulk RNA-seq · ATAC-seq · NGS · Seurat · Bioconductor · Differential Expression · Clustering · Cell-Type Annotation · Variant Analysis**
-
-### ⚙️ Workflow & Reproducibility
-
-**Nextflow · Snakemake · Linux · HPC · Docker · Git/GitHub · R Markdown**
-
-### 📊 Data Analysis & Visualization
-
-**Pandas · NumPy · scikit-learn · ggplot2 · Matplotlib · Seaborn · UMAP · t-SNE · Heatmaps · Violin Plots**
-
-### 🧬 Genomics Tools
-
-**SAMtools · GATK · ANNOVAR · Ensembl VEP**
-
-### 🤖 Machine Learning
-
-**scikit-learn · TensorFlow · PyTorch · Feature Selection · Supervised Classification**
+**Machine Learning:** scikit-learn · TensorFlow · PyTorch · Feature Selection · Supervised Classification
 
 ## 🚀 Selected Projects
 
-### 🧬 RNA-seq Analysis
-
-End-to-end computational analysis of transcriptomic data including quality control, normalization, differential expression analysis, visualization, and biological interpretation.
-
-**Focus:** RNA-seq · R · Bioconductor · Differential Expression · Pathway Analysis
-
----
-
-### 🧬 Variant Classification
-
-Computational analysis and classification of genomic variants using machine-learning approaches.
-
-**Focus:** Genomic Variants · Python · Machine Learning · Classification
+### 🧬 Alzheimer's Disease Classification
+Machine learning classification of Alzheimer's disease status using supervised learning classifiers on clinical/biomedical data.
+**Focus:** Classification · Python · scikit-learn
+[View Repo →](https://github.com/Bioinformatician-dev/Alzheimer-s-Disease-Classification-)
 
 ---
 
-### 🧪 Multi-Omics / BioML
+### 🧬 Parkinson's Disease Classification (SVM)
+Classification of Parkinson's disease using a Support Vector Machine approach on biomedical features.
+**Focus:** Classification · SVM · Python
+[View Repo →](https://github.com/Bioinformatician-dev/Parkinson-s-Disease-Classification-using-SVM)
 
-Integration and computational analysis of biological datasets using machine-learning approaches for disease-associated molecular signatures and prediction.
+---
 
-**Focus:** Multi-omics · Python · Machine Learning · Biomedical Data
+### 🧪 Naive Bayes Iris Classifier
+Implementation of a Naive Bayes classifier on the classic Iris dataset, demonstrating core ML classification workflow.
+**Focus:** Classification · Naive Bayes · Python
+[View Repo →](https://github.com/Bioinformatician-dev/naive-bayes-iris-classifier)
+
+---
+
+### 🧬 More Projects
+RNA-seq, variant analysis, and multi-omics integration work in progress — see the full repository list for the latest.
+[Browse all repositories →](https://github.com/Bioinformatician-dev?tab=repositories)
 
 ## 📚 Research Experience
 
-* Graduate Research Assistant  NUST, Islamabad
-* Research Scholar  COMSATS Institute of Information Technology, Islamabad
-* Bioinformatician  Biocode Ltd., Islamabad
+* Graduate Research Assistant — NUST, Islamabad
+* Research Scholar — COMSATS Institute of Information Technology, Islamabad
+* Bioinformatician — Biocode Ltd., Islamabad
 
 My research experience includes **scRNA-seq, bulk RNA-seq, NGS analysis, multi-omics integration, pathway analysis, biological networks, machine learning, and reproducible workflow development**.
 
 ## 📖 Publications
 
 **Khalid, A., Hafeez, S., & Jabeen, I. (2024).**
-*Molecular Modeling Studies to Mimic the Binding Hypothesis of NEU3 Sialidase and EGFR in Nonsmall Cell Lung Carcinoma.*
+*Molecular Modeling Studies to Mimic the Binding Hypothesis of NEU3 Sialidase and EGFR in Non-small Cell Lung Carcinoma.*
 
 **Hafeez, S., Aslam, T., & Hasnain, M. J. U.**
 *Pathway Network Analysis of Genes Involved in Dominant Syndromes.*
@@ -111,10 +98,17 @@ Manuscript under review.
 
 ## 🎓 Training
 
-* Multi-Omics Data Integration Using Deep Learning MDC-BIMSB, Berlin, 2025
-* Spatial Omics Data Analysis for Multi-Resolution & Multi-Omics Integration  MDC-BIMSB, Berlin, 2025
-* Hands-On NGS Cancer Genomics Workshop  Biocode Ltd., 2021
-* Genes to Pathways Training Decode Life, 2021
+* Multi-Omics Data Integration Using Deep Learning — MDC-BIMSB, Berlin, 2025
+* Spatial Omics Data Analysis for Multi-Resolution & Multi-Omics Integration — MDC-BIMSB, Berlin, 2025
+* Hands-On NGS Cancer Genomics Workshop — Biocode Ltd., 2021
+* Genes to Pathways Training — Decode Life, 2021
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bioinformatician-dev&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bioinformatician-dev&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
+</p>
 
 ## 📫 Contact
 

@@ -142,28 +142,17 @@ Version-controlled, documented workflows built for one-command reruns.
   <img src="https://media.giphy.com/media/YlmI36YAWe7KScC7hK/giphy.gif" width="90" alt="DNA strand divider" />
 </p>
 
-<!-- ════════════════════════  FROM THE MICROSCOPE  ════════════════════════ -->
 
-## 🔬 From the Microscope
 
-<table align="center">
-<tr>
-<td width="50%" align="center">
+<table align="center"> <tr> <td width="50%" align="center">
 
-<img src="https://media.giphy.com/media/d9zTJCNhA8NgyIEcOr/giphy.gif" width="260" alt="Real fluorescence microscopy footage of cell development, courtesy of EMBL" /><br/>
-<sub><b>Cells, dividing and developing</b><br/>fluorescence microscopy · <a href="https://www.embl.org/">EMBL</a></sub>
+<img src="https://media.giphy.com/media/7kZxftvE0pB60O1GTd/giphy.gif" width="260" alt="Protein folding simulation from the Folding@home distributed computing project" /><br/> <sub><b>Sequence → structure → function</b><br/>protein folding simulation · Folding@home</sub>
 
-</td>
-<td width="50%" align="center">
+</td> <td width="50%" align="center">
 
-<img src="https://media.giphy.com/media/CtE8FTWnTxZoOm8EcL/giphy.gif" width="260" alt="Real fluorescence microscopy footage of actin filaments, courtesy of EMBL" /><br/>
-<sub><b>Actin, the cell's scaffolding</b><br/>structural protein in action · <a href="https://www.embl.org/">EMBL</a></sub>
+<img src="https://media.giphy.com/media/1UVCBPy6PCyLmxdQ0W/giphy.gif" width="260" alt="CRISPR DNA editing animation" /><br/> <sub><b>Editing the code of life</b><br/>CRISPR gene editing in action</sub>
 
-</td>
-</tr>
-</table>
-
-<p align="center"><sub>Real lab footage, not stock animation — because the actual biology is more interesting anyway.</sub></p>
+</td> </tr> </table> <p align="center"><sub>From a 1D sequence to a folded 3D machine — this is the gap structural bioinformatics tries to close.</sub></p> <p align="center"><sub>Real lab f
 
 <!-- ════════════════════════  PROJECTS  ════════════════════════ -->
 

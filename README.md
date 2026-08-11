@@ -2,6 +2,10 @@
 <h3 align="center">🧬 Turning raw sequencing data into biological insight</h3>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F5B57&height=120&section=header" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=0F5B57&center=true&vCenter=true&width=600&lines=Bioinformatician+%7C+NGS+%2B+Single-Cell+Genomics;Building+reproducible+multi-omics+pipelines;Python+%C2%B7+R+%C2%B7+Snakemake+%C2%B7+Nextflow" alt="Typing SVG" />
 </p>
 
@@ -102,6 +106,14 @@ Snakemake/Nextflow workflows, version-controlled and documented for one-command 
 
 <br>
 
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bioinformatician-dev/Bioinformatician-dev/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+<br>
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -125,3 +137,5 @@ Snakemake/Nextflow workflows, version-controlled and documented for one-command 
 <p align="center">
   <sub>📫 Reach me at <a href="mailto:salmahafeez575@gmail.com">salmahafeez575@gmail.com</a></sub>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F5B57&height=100&section=footer" />

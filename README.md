@@ -208,17 +208,44 @@ Version-controlled, documented workflows built for one-command reruns.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bioinformatician-dev&custom_title=Commit%20Activity&bg_color=1A0B2E&color=EAFFF9&title_color=FF6B6B&line=6BFFB8&point=FFD56B&area=true&area_color=D56BFF&hide_border=true&radius=8" width="100%" alt="Contribution activity graph" />
 </p>
 
-<!-- ════════════════════════  SNAKE + TROPHIES  ════════════════════════ -->
+<!-- ════════════════════════  TROPHIES  ════════════════════════ -->
 
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Bioinformatician-dev/Bioinformatician-dev/output/github-contribution-grid-snake.svg" alt="Snake eating my contribution graph" />
-</p>
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Bioinformatician-dev&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" alt="GitHub trophies" />
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/YlmI36YAWe7KScC7hK/giphy.gif" width="90" alt="DNA strand divider" />
+</p>
+
+<!-- ════════════════════════  BIOINFORMATICS  ════════════════════════ -->
+
+## 🧫 Bioinformatics Analysis 
+
+<table align="center">
+<tr>
+<td width="33%" align="center">
+
+<img src="https://media.giphy.com/media/rgYPePbfAdTboSJsp1/giphy.gif" width="220" alt="DNA sequence (ACGT) animation" /><br/>
+<sub><b>Reading the sequence</b><br/>A · C · G · T</sub>
+
+</td>
+<td width="33%" align="center">
+
+<img src="https://media.giphy.com/media/1UVCBPy6PCyLmxdQ0W/giphy.gif" width="220" alt="CRISPR DNA editing animation" /><br/>
+<sub><b>Editing the genome</b><br/>CRISPR in action</sub>
+
+</td>
+<td width="33%" align="center">
+
+<img src="https://media.giphy.com/media/zdhgBtpANvh6G6ERNz/giphy.gif" width="220" alt="DNA and genetics animation" /><br/>
+<sub><b>Genes → function</b><br/>from sequence to biology</sub>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://media.giphy.com/media/YlmI36YAWe7KScC7hK/giphy.gif" width="90" alt="DNA strand divider" />

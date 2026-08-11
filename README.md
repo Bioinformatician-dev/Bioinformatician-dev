@@ -1,119 +1,26 @@
-<h1 align="center">Hi 👋, I'm Salma Hafeez</h1>
+\<h1 align="center">Hi 👋, I'm Salma\</h1>
+\<h3 align="center">A passionate Bioinformatician from Pakistan\</h3>
 
-<h3 align="center">Bioinformatician | NGS | Single-Cell Genomics | Multi-Omics</h3>
+\<p align="left"> \<img src="[https://komarev.com/ghpvc/?username=bioinformatician-dev&label=Profile%20views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=bioinformatician-dev\&label=Profile%20views\&color=0e75b6\&style=flat)" alt="bioinformatician-dev" /> \</p>
 
-<p align="center">
-  <a href="https://github.com/Bioinformatician-dev">
-    <img src="https://img.shields.io/badge/GitHub-Bioinformatician--dev-181717?style=flat&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/salma-hafeez/">
-    <img src="https://img.shields.io/badge/LinkedIn-Salma%20Hafeez-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=bioinformatician-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
+\<p align="left"> \<a href="[https://github.com/ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)">\<img src="[https://github-profile-trophy.vercel.app/?username=bioinformatician-dev](https://github-profile-trophy.vercel.app/?username=bioinformatician-dev)" alt="bioinformatician-dev" />\</a> \</p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bioinformatician-dev&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-  </a>
-</p>
+\- 🔭 I’m currently working on \*\*Computer Vision project\*\*
 
-## 🧬 About Me
+\- 👯 I’m looking to collaborate on \*\*Biomedical image analysis\*\*
 
-I am a Bioinformatician and computational biology researcher with an MS in Bioinformatics and hands-on experience in NGS, transcriptomics, single-cell genomics, multi-omics integration, and machine learning for biomedical data.
+\- 💬 Ask me about \*\*AI in biomedicine\*\*
 
-My work focuses on developing reproducible computational workflows and extracting biologically meaningful insights from complex genomic and transcriptomic datasets.
+\- 📫 How to reach me \*\*salmahafeez575\@gmail.com\*\*
 
-### 🔬 Research Interests
+\<h3 align="left">Connect with me:\</h3>
+\<p align="left">
+\<a href="[https://www.linkedin.com/in/salma-hafeez/](https://www.linkedin.com/in/salma-hafeez/)" target="blank">\<img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)" alt="salma hafeez" height="30" width="40" />\</a>
+\</p>
 
-* 🧬 NGS & RNA-seq analysis
-* 🔬 Single-cell RNA-seq (scRNA-seq)
-* 🧪 ATAC-seq & multi-modal genomics
-* 🧬 Multi-omics data integration
-* 🧫 Cancer genomics & biomarker discovery
-* 🧬 Variant analysis and genomic interpretation
-* 📊 Differential expression & pathway analysis
-* 🤖 Machine learning for biomedical data
-* ⚙️ Reproducible bioinformatics workflows
+\<h3 align="left">Languages and Tools:\</h3>
+\<p align="left"> \<a href="[https://www.gnu.org/software/bash/](https://www.gnu.org/software/bash/)" target="\_blank" rel="noreferrer"> \<img src="[https://www.vectorlogo.zone/logos/gnu\_bash/gnu\_bash-icon.svg](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)" alt="bash" width="40" height="40"/> \</a> \<a href="[https://www.docker.com/](https://www.docker.com/)" target="\_blank" rel="noreferrer"> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)" alt="docker" width="40" height="40"/> \</a> \<a href="[https://flask.palletsprojects.com/](https://flask.palletsprojects.com/)" target="\_blank" rel="noreferrer"> \<img src="[https://www.vectorlogo.zone/logos/pocoo\_flask/pocoo\_flask-icon.svg](https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg)" alt="flask" width="40" height="40"/> \</a> \<a href="[https://git-scm.com/](https://git-scm.com/)" target="\_blank" rel="noreferrer"> \<img src="[https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)" alt="git" width="40" height="40"/> \</a> \<a href="[https://www.java.com](https://www.java.com)" target="\_blank" rel="noreferrer"> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)" alt="java" width="40" height="40"/> \</a> \<a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)" target="\_blank" rel="noreferrer"> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)" alt="javascript" width="40" height="40"/> \</a> \<a href="[https://www.linux.org/](https://www.linux.org/)" target="\_blank" rel="noreferrer"> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)" alt="linux" width="40" height="40"/> \</a> \<a href="[https://www.mathworks.com/](https://www.mathworks.com/)" target="\_blank" rel="noreferrer"> \<img src="[https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab\_Logo.png](https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png)" alt="matlab" width="40" height="40"/> \</a> \<a href="[https://www.mysql.com/](https://www.mysql.com/)" target="\_blank" rel="noreferrer"> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)" alt="mysql" width="40" height="40"/> \</a> \<a href="[https://opencv.org/](https://opencv.org/)" target="\_blank" rel="noreferrer"> \<img src="[https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg](https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg)" alt="opencv" width="40" height="40"/> \</a> \<a href="[https://pandas.pydata.org/](https://pandas.pydata.org/)" target="\_blank" rel="noreferrer"> \<img src="[https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg](https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg)" alt="pandas" width="40" height="40"/> \</a> \<a href="[https://www.perl.org/](https://www.perl.org/)" target="\_blank" rel="noreferrer"> \<img src="[https://api.iconify.design/logos-perl.svg](https://api.iconify.design/logos-perl.svg)" alt="perl" width="40" height="40"/> \</a> \<a href="[https://www.python.org](https://www.python.org)" target="\_blank" rel="noreferrer"> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)" alt="python" width="40" height="40"/> \</a> \<a href="[https://pytorch.org/](https://pytorch.org/)" target="\_blank" rel="noreferrer"> \<img src="[https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg](https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg)" alt="pytorch" width="40" height="40"/> \</a> \<a href="[https://reactjs.org/](https://reactjs.org/)" target="\_blank" rel="noreferrer"> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)" alt="react" width="40" height="40"/> \</a> \<a href="[https://scikit-learn.org/](https://scikit-learn.org/)" target="\_blank" rel="noreferrer"> \<img src="[https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit\_learn\_logo\_small.svg](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)" alt="scikit\_learn" width="40" height="40"/> \</a> \<a href="[https://seaborn.pydata.org/](https://seaborn.pydata.org/)" target="\_blank" rel="noreferrer"> \<img src="[https://seaborn.pydata.org/\_images/logo-mark-lightbg.svg](https://seaborn.pydata.org/_images/logo-mark-lightbg.svg)" alt="seaborn" width="40" height="40"/> \</a> \<a href="[https://www.selenium.dev](https://www.selenium.dev)" target="\_blank" rel="noreferrer"> \<img src="[https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg](https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg)" alt="selenium" width="40" height="40"/> \</a> \<a href="[https://www.sqlite.org/](https://www.sqlite.org/)" target="\_blank" rel="noreferrer"> \<img src="[https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg](https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg)" alt="sqlite" width="40" height="40"/> \</a> \<a href="[https://www.tensorflow.org](https://www.tensorflow.org)" target="\_blank" rel="noreferrer"> \<img src="[https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg)" alt="tensorflow" width="40" height="40"/> \</a> \</p>
 
-## 🛠️ Technical Skills
+\<p>\<img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=bioinformatician-dev&show\_icons=true&locale=en&layout=compact](https://github-readme-stats.vercel.app/api/top-langs?username=bioinformatician-dev\&show_icons=true\&locale=en\&layout=compact)" alt="bioinformatician-dev" />\</p>
 
-**Programming:** Python · R · Bash · Perl
-
-**Bioinformatics & Omics:** scRNA-seq · Bulk RNA-seq · ATAC-seq · NGS · Seurat · Bioconductor · Differential Expression · Clustering · Cell-Type Annotation · Variant Analysis
-
-**Workflow & Reproducibility:** Nextflow · Snakemake · Linux · HPC · Docker · Git/GitHub · R Markdown
-
-**Data Analysis & Visualization:** Pandas · NumPy · scikit-learn · ggplot2 · Matplotlib · Seaborn · UMAP · t-SNE · Heatmaps · Violin Plots
-
-**Genomics Tools:** SAMtools · GATK · ANNOVAR · Ensembl VEP
-
-**Machine Learning:** scikit-learn · TensorFlow · PyTorch · Feature Selection · Supervised Classification
-
-## 🚀 Selected Projects
-
-### 🧬 Alzheimer's Disease Classification
-Machine learning classification of Alzheimer's disease status using supervised learning classifiers on clinical/biomedical data.
-**Focus:** Classification · Python · scikit-learn
-[View Repo →](https://github.com/Bioinformatician-dev/Alzheimer-s-Disease-Classification-)
-
----
-
-### 🧬 Parkinson's Disease Classification (SVM)
-Classification of Parkinson's disease using a Support Vector Machine approach on biomedical features.
-**Focus:** Classification · SVM · Python
-[View Repo →](https://github.com/Bioinformatician-dev/Parkinson-s-Disease-Classification-using-SVM)
-
----
-
-### 🧪 Naive Bayes Iris Classifier
-Implementation of a Naive Bayes classifier on the classic Iris dataset, demonstrating core ML classification workflow.
-**Focus:** Classification · Naive Bayes · Python
-[View Repo →](https://github.com/Bioinformatician-dev/naive-bayes-iris-classifier)
-
----
-
-### 🧬 More Projects
-RNA-seq, variant analysis, and multi-omics integration work in progress — see the full repository list for the latest.
-[Browse all repositories →](https://github.com/Bioinformatician-dev?tab=repositories)
-
-## 📚 Research Experience
-
-* Graduate Research Assistant — NUST, Islamabad
-* Research Scholar — COMSATS Institute of Information Technology, Islamabad
-* Bioinformatician — Biocode Ltd., Islamabad
-
-My research experience includes **scRNA-seq, bulk RNA-seq, NGS analysis, multi-omics integration, pathway analysis, biological networks, machine learning, and reproducible workflow development**.
-
-## 📖 Publications
-
-**Khalid, A., Hafeez, S., & Jabeen, I. (2024).**
-*Molecular Modeling Studies to Mimic the Binding Hypothesis of NEU3 Sialidase and EGFR in Non-small Cell Lung Carcinoma.*
-
-**Hafeez, S., Aslam, T., & Hasnain, M. J. U.**
-*Pathway Network Analysis of Genes Involved in Dominant Syndromes.*
-
-**Genetic-Driven Biomarkers for Liver Carcinoma Through Bioinformatics Approach.**
-Manuscript under review.
-
-## 🎓 Training
-
-* Multi-Omics Data Integration Using Deep Learning — MDC-BIMSB, Berlin, 2025
-* Spatial Omics Data Analysis for Multi-Resolution & Multi-Omics Integration — MDC-BIMSB, Berlin, 2025
-* Hands-On NGS Cancer Genomics Workshop — Biocode Ltd., 2021
-* Genes to Pathways Training — Decode Life, 2021
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bioinformatician-dev&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bioinformatician-dev&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-## 📫 Contact
-
-📧 **Email:** [salmahafeez575@gmail.com](mailto:salmahafeez575@gmail.com)
-
-💼 **LinkedIn:** [linkedin.com/in/salma-hafeez](https://www.linkedin.com/in/salma-hafeez/)
-
-🐙 **GitHub:** [github.com/Bioinformatician-dev](https://github.com/Bioinformatician-dev)
+\<p>&nbsp;\<img align="center" src="[https://github-readme-stats.vercel.app/api?username=bioinformatician-dev&show\_icons=true&locale=en](https://github-readme-stats.vercel.app/api?username=bioinformatician-dev\&show_icons=true\&locale=en)" alt="bioinformatician-dev" />\</p>

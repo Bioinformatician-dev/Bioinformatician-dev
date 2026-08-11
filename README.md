@@ -92,9 +92,9 @@ Integration and computational analysis of biological datasets using machine-lear
 
 ## 📚 Research Experience
 
-* Graduate Research Assistant — NUST, Islamabad
-* Research Scholar — COMSATS Institute of Information Technology, Islamabad
-* Bioinformatician — Biocode Ltd., Islamabad
+* Graduate Research Assistant  NUST, Islamabad
+* Research Scholar  COMSATS Institute of Information Technology, Islamabad
+* Bioinformatician  Biocode Ltd., Islamabad
 
 My research experience includes **scRNA-seq, bulk RNA-seq, NGS analysis, multi-omics integration, pathway analysis, biological networks, machine learning, and reproducible workflow development**.
 
@@ -111,10 +111,10 @@ Manuscript under review.
 
 ## 🎓 Training
 
-* Multi-Omics Data Integration Using Deep Learning — MDC-BIMSB, Berlin, 2025
-* Spatial Omics Data Analysis for Multi-Resolution & Multi-Omics Integration — MDC-BIMSB, Berlin, 2025
-* Hands-On NGS Cancer Genomics Workshop — Biocode Ltd., 2021
-* Genes to Pathways Training — Decode Life, 2021
+* Multi-Omics Data Integration Using Deep Learning MDC-BIMSB, Berlin, 2025
+* Spatial Omics Data Analysis for Multi-Resolution & Multi-Omics Integration  MDC-BIMSB, Berlin, 2025
+* Hands-On NGS Cancer Genomics Workshop  Biocode Ltd., 2021
+* Genes to Pathways Training Decode Life, 2021
 
 ## 📫 Contact
 

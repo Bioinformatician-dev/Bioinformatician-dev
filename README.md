@@ -13,11 +13,11 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/7cA26U6pNJGMnR0Tho/giphy.gif" width="360" alt="Animated DNA double helix" />
+  <img src="https://media.giphy.com/media/YlmI36YAWe7KScC7hK/giphy.gif" width="360" alt="Animated DNA double helix" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/7cA26U6pNJGMnR0Tho/giphy.gif" width="90" alt="DNA strand divider" />
+  <img src="https://media.giphy.com/media/YlmI36YAWe7KScC7hK/giphy.gif" width="90" alt="DNA strand divider" />
 </p>
 
 <!-- ════════════════════════  ABOUT / QUICK FACTS  ════════════════════════ -->
@@ -39,14 +39,14 @@ I'm a **bioinformatician** who lives at the intersection of wet-lab biology and 
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="DNA animation" />
+<img src="https://media.giphy.com/media/YlmI36YAWe7KScC7hK/giphy.gif" width="260" alt="DNA animation" />
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/7cA26U6pNJGMnR0Tho/giphy.gif" width="90" alt="DNA strand divider" />
+  <img src="https://media.giphy.com/media/YlmI36YAWe7KScC7hK/giphy.gif" width="90" alt="DNA strand divider" />
 </p>
 
 <!-- ════════════════════════  PIPELINE  ════════════════════════ -->
@@ -101,7 +101,7 @@ Version-controlled, documented workflows built for one-command reruns.
 </table>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/7cA26U6pNJGMnR0Tho/giphy.gif" width="90" alt="DNA strand divider" />
+  <img src="https://media.giphy.com/media/YlmI36YAWe7KScC7hK/giphy.gif" width="90" alt="DNA strand divider" />
 </p>
 
 <!-- ════════════════════════  TECH STACK  ════════════════════════ -->
@@ -139,7 +139,7 @@ Version-controlled, documented workflows built for one-command reruns.
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/7cA26U6pNJGMnR0Tho/giphy.gif" width="90" alt="DNA strand divider" />
+  <img src="https://media.giphy.com/media/YlmI36YAWe7KScC7hK/giphy.gif" width="90" alt="DNA strand divider" />
 </p>
 
 <!-- ════════════════════════  PROJECTS  ════════════════════════ -->
@@ -188,7 +188,7 @@ Version-controlled, documented workflows built for one-command reruns.
 </table>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/7cA26U6pNJGMnR0Tho/giphy.gif" width="90" alt="DNA strand divider" />
+  <img src="https://media.giphy.com/media/YlmI36YAWe7KScC7hK/giphy.gif" width="90" alt="DNA strand divider" />
 </p>
 
 <!-- ════════════════════════  STATS  ════════════════════════ -->
@@ -221,7 +221,7 @@ Version-controlled, documented workflows built for one-command reruns.
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/7cA26U6pNJGMnR0Tho/giphy.gif" width="90" alt="DNA strand divider" />
+  <img src="https://media.giphy.com/media/YlmI36YAWe7KScC7hK/giphy.gif" width="90" alt="DNA strand divider" />
 </p>
 
 <!-- ════════════════════════  FOOTER  ════════════════════════ -->

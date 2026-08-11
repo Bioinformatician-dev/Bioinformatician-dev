@@ -39,7 +39,7 @@ I'm a bioinformatician who lives at the intersection of wet-lab biology and comp
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://media.giphy.com/media/YlmI36YAWe7KScC7hK/giphy.gif" width="260" alt="DNA animation" />
+<img src="https://media.giphy.com/media/7cA26U6pNJGMnR0Tho/giphy.gif" width="260" alt="Realistic rotating 3D DNA double helix animation" />
 
 </td>
 </tr>
@@ -101,7 +101,7 @@ Version-controlled, documented workflows built for one-command reruns.
 </table>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/YlmI36YAWe7KScC7hK/giphy.gif" width="90" alt="DNA strand divider" />
+  <img src="https://media.giphy.com/media/7cA26U6pNJGMnR0Tho/giphy.gif" width="90" alt="DNA strand divider" />
 </p>
 
 <!-- ════════════════════════  TECH STACK  ════════════════════════ -->
@@ -163,6 +163,16 @@ Version-controlled, documented workflows built for one-command reruns.
 ## 🤖 Machine Learning & AI Projects
 
 <p align="center"><sub>Deep learning and classical ML applied to sequences, medical images, and microscopy — from raw pixels/bases to biological calls.</sub></p>
+
+<table align="center"> <tr> <td width="50%" align="center">
+
+<img src="https://media.giphy.com/media/7A1dYzGilg6vLi9CLp/giphy.gif" width="260" alt="Realistic DNA sequence scrolling animation representing genomic data" /><br/> <sub><b>Reading the genome at scale</b><br/>sequence data → model input</sub>
+
+</td> <td width="50%" align="center">
+
+<img src="https://media.giphy.com/media/2tNw3L9O0erCCtDZzb/giphy.gif" width="260" alt="Genetic modification and gene-editing animation" /><br/> <sub><b>From data to decision</b><br/>models trained on real biomedical images &amp; sequences</sub>
+
+</td> </tr> </table>
 
 <p align="center">
   <a href="https://github.com/Bioinformatician-dev/DNA-Sequence-Classification-Using-Deep-Learning">
@@ -291,7 +301,7 @@ Version-controlled, documented workflows built for one-command reruns.
 </table>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/YlmI36YAWe7KScC7hK/giphy.gif" width="90" alt="DNA strand divider" />
+  <img src="https://media.giphy.com/media/rgYPePbfAdTboSJsp1/giphy.gif" width="90" alt="DNA strand divider" />
 </p>
 
 <!-- ════════════════════════  STATS  ════════════════════════ -->

@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Salma Hafeez</h1>
 
-<h3 align="center">🧬 Bioinformatician | Computational Biology | AI for Biomedical Research</h3>
+<p align="center">
+  <b>🧬 Bioinformatician • Computational Biology • AI for Biomedical Research</b>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=NGS+%7C+Cancer+Genomics+%7C+Multi-Omics;Machine+Learning+%7C+Deep+Learning;Biomarker+Discovery+%7C+Biomedical+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=NGS+%7C+Cancer+Genomics+%7C+Multi-Omics;Machine+Learning+%7C+Deep+Learning;Biomarker+Discovery+%7C+Biomedical+AI" />
 </p>
 
 <p align="center">
@@ -22,29 +24,44 @@
 
 ### 🧬 About Me
 
-Bioinformatician passionate about turning **biological data into meaningful insights** through computational biology, machine learning, and AI.
+Bioinformatician passionate about using computational biology, machine learning, and AI to solve biomedical problems.
 
-🔬 **Research:** Cancer Genomics • NGS • Multi-Omics • Biomarkers • Variant Analysis
-🤖 **AI:** Machine Learning • Deep Learning • CNNs • GNNs • YOLO
-🧪 **Bioinformatics:** RNA-seq • Single-cell • Genomic Data • Network Biology
-💻 **Tools:** Python • R • TensorFlow • PyTorch • scikit-learn • Bioconductor
+* 🔬 **Cancer Genomics & Biomarker Discovery**
+* 🧬 **NGS & Multi-Omics Analysis**
+* 🔬 **RNA-seq & Genomic Variant Analysis**
+* 🤖 **Machine & Deep Learning**
+* 🩻 **Biomedical Image Analysis**
+* 🧠 **Network & Computational Biology**
+
+**Tech:** Python • R • Linux • TensorFlow • PyTorch • scikit-learn • Bioconductor • Seurat • OpenCV
 
 ---
 
 ### 🚀 Featured Projects
 
-| 🧬 Project                                                                                                             | 🔬 Focus                 |
-| ---------------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| [DNA Sequence Classification](https://github.com/Bioinformatician-dev/DNA-Sequence-Classification-Using-Deep-Learning) | Deep Learning + Genomics |
-| [Biomedical Image Analysis](https://github.com/Bioinformatician-dev/Biomedical-images-analysis-CNN)                    | CNN + Medical Imaging    |
-| [GNN Image Classification](https://github.com/Bioinformatician-dev/GNN-image-classification)                           | Graph Neural Networks    |
-| [YOLO Object Detection](https://github.com/Bioinformatician-dev/YOLOv9-for-object-detection-and-counting-)             | Detection + Counting     |
-| [Variant Classification](https://github.com/Bioinformatician-dev/variant-classification)                               | Genomic Variants         |
-| [Drug Target Prediction](https://github.com/Bioinformatician-dev/bioml-drug-target-prediction)                         | ML + Drug Discovery      |
+<p align="center">
+
+<a href="https://github.com/Bioinformatician-dev/DNA-Sequence-Classification-Using-Deep-Learning">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bioinformatician-dev&repo=DNA-Sequence-Classification-Using-Deep-Learning&theme=transparent&hide_border=true" />
+</a>
+
+<a href="https://github.com/Bioinformatician-dev/Biomedical-images-analysis-CNN">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bioinformatician-dev&repo=Biomedical-images-analysis-CNN&theme=transparent&hide_border=true" />
+</a>
+
+<a href="https://github.com/Bioinformatician-dev/variant-classification">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bioinformatician-dev&repo=variant-classification&theme=transparent&hide_border=true" />
+</a>
+
+<a href="https://github.com/Bioinformatician-dev/YOLOv9-for-object-detection-and-counting-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bioinformatician-dev&repo=YOLOv9-for-object-detection-and-counting-&theme=transparent&hide_border=true" />
+</a>
+
+</p>
 
 ---
 
-### 📊 GitHub
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Bioinformatician-dev&show_icons=true&hide_border=true&theme=transparent" />
@@ -54,5 +71,5 @@ Bioinformatician passionate about turning **biological data into meaningful insi
 ---
 
 <p align="center">
-  <b>🧬 Exploring biology through data, computation & AI.</b>
+  <b>🧬 Turning biological data into computational insight.</b>
 </p>

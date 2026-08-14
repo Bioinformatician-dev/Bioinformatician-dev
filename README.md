@@ -76,18 +76,7 @@ Bioinformatician passionate about using computational biology, machine learning,
 
 <br>
 
-### 🐍 Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Bioinformatician-dev/Bioinformatician-dev/output/github-contribution-grid-snake-dark.svg" alt="Animated snake eating through the contribution graph" />
-</p>
-
-> The snake above animates automatically once the accompanying GitHub Action is added — see `snake.yml` and the setup note below.
-
-<br>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3FC9AE,100:6C63FF&height=120&section=footer" alt="Footer banner" />
 
 <b>🧬 Turning biological data into computational insight.</b>
 </div>

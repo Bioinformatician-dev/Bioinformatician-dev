@@ -25,7 +25,7 @@
 
 ### 🧬 About Me
 
-Bioinformatician passionate about using computational biology, machine learning, and AI to solve biomedical problems — the whole path, from raw reads and scans through to a model that survives cross-validation.
+Bioinformatician passionate about using computational biology, machine learning, and AI to solve biomedical problems the whole path, from raw reads and scans through to a model that survives cross-validation.
 
 - 🔬 **Cancer Genomics & Biomarker Discovery**
 - 🧬 **NGS & Multi-Omics Analysis**
@@ -48,16 +48,16 @@ Bioinformatician passionate about using computational biology, machine learning,
 
 <p align="center">
 <a href="https://github.com/Bioinformatician-dev/DNA-Sequence-Classification-Using-Deep-Learning">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bioinformatician-dev&repo=DNA-Sequence-Classification-Using-Deep-Learning&theme=radical&hide_border=true" alt="Repo card: DNA Sequence Classification Using Deep Learning" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Bioinformatician-dev&repo=DNA-Sequence-Classification-Using-Deep-Learning&theme=radical&hide_border=true" alt="Repo card: DNA Sequence Classification Using Deep Learning" />
 </a>
 <a href="https://github.com/Bioinformatician-dev/Biomedical-images-analysis-CNN">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bioinformatician-dev&repo=Biomedical-images-analysis-CNN&theme=radical&hide_border=true" alt="Repo card: Biomedical Images Analysis CNN" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Bioinformatician-dev&repo=Biomedical-images-analysis-CNN&theme=radical&hide_border=true" alt="Repo card: Biomedical Images Analysis CNN" />
 </a>
 <a href="https://github.com/Bioinformatician-dev/variant-classification">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bioinformatician-dev&repo=variant-classification&theme=radical&hide_border=true" alt="Repo card: Variant Classification" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Bioinformatician-dev&repo=variant-classification&theme=radical&hide_border=true" alt="Repo card: Variant Classification" />
 </a>
 <a href="https://github.com/Bioinformatician-dev/YOLOv9-for-object-detection-and-counting-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bioinformatician-dev&repo=YOLOv9-for-object-detection-and-counting-&theme=radical&hide_border=true" alt="Repo card: YOLOv9 for Object Detection and Counting" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Bioinformatician-dev&repo=YOLOv9-for-object-detection-and-counting-&theme=radical&hide_border=true" alt="Repo card: YOLOv9 for Object Detection and Counting" />
 </a>
 </p>
 
@@ -66,12 +66,12 @@ Bioinformatician passionate about using computational biology, machine learning,
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bioinformatician-dev&show_icons=true&hide_border=true&theme=radical&count_private=true" alt="Salma Hafeez's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bioinformatician-dev&layout=compact&hide_border=true&theme=radical" alt="Most used languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Bioinformatician-dev&show_icons=true&hide_border=true&theme=radical&count_private=true" alt="Salma Hafeez's GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Bioinformatician-dev&layout=compact&hide_border=true&theme=radical" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bioinformatician-dev&theme=radical&hide_border=true" alt="Salma Hafeez's GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com/?user=Bioinformatician-dev&theme=radical&hide_border=true" alt="Salma Hafeez's GitHub contribution streak" />
 </p>
 
 <br>

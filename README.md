@@ -71,7 +71,7 @@ Bioinformatician passionate about using computational biology, machine learning,
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Bioinformatician-dev&theme=radical&hide_border=true" alt="Salma Hafeez's GitHub contribution streak" />
+  
 </p>
 
 <br>

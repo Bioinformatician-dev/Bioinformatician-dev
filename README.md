@@ -22,7 +22,77 @@
 </div>
 
 <br>
+<h2 align="center">🚀 Featured Projects</h2>
 
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+<h3>🧬 DNA Sequence Classification</h3>
+
+Deep learning-based classification of DNA sequences using Python and neural networks.
+
+<b>Tech:</b> Python · Deep Learning · Bioinformatics
+
+<p>
+<a href="https://github.com/Bioinformatician-dev/DNA-Sequence-Classification-Using-Deep-Learning">
+🔗 View Project
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🩻 Biomedical Images Analysis</h3>
+
+CNN-based analysis and classification of biomedical images using computer vision techniques.
+
+<b>Tech:</b> Python · CNN · Computer Vision
+
+<p>
+<a href="https://github.com/Bioinformatician-dev/Biomedical-images-analysis-CNN">
+🔗 View Project
+</a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>🧬 Genetic Variant Classification</h3>
+
+Machine learning approaches for classification and analysis of genetic variants.
+
+<b>Tech:</b> Python · Machine Learning · Genomics
+
+<p>
+<a href="https://github.com/Bioinformatician-dev/variant-classification">
+🔗 View Project
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🚗 YOLOv9 Object Detection</h3>
+
+YOLOv9-based object detection and counting using modern computer vision techniques.
+
+<b>Tech:</b> Python · YOLOv9 · Computer Vision
+
+<p>
+<a href="https://github.com/Bioinformatician-dev/YOLOv9-for-object-detection-and-counting-">
+🔗 View Project
+</a>
+</p>
+
+</td>
+</tr>
+</table>
 ### 🧬 About Me
 
 Bioinformatician passionate about using computational biology, machine learning, and AI to solve biomedical problems the whole path, from raw reads and scans through to a model that survives cross-validation.
@@ -44,41 +114,7 @@ Bioinformatician passionate about using computational biology, machine learning,
 
 <br>
 
-### 🚀 Featured Projects
 
-<p align="center">
-
-<a href="https://github.com/Bioinformatician-dev/DNA-Sequence-Classification-Using-Deep-Learning">
-🧬 <b>DNA Sequence Classification</b>
-</a>
-<br>
-Deep learning-based classification of DNA sequences using Python.
-
-<br><br>
-
-<a href="https://github.com/Bioinformatician-dev/Biomedical-images-analysis-CNN">
-🩻 <b>Biomedical Images Analysis</b>
-</a>
-<br>
-CNN-based analysis and classification of biomedical images.
-
-<br><br>
-
-<a href="https://github.com/Bioinformatician-dev/variant-classification">
-🧬 <b>Variant Classification</b>
-</a>
-<br>
-Machine learning approaches for genetic variant classification.
-
-<br><br>
-
-<a href="https://github.com/Bioinformatician-dev/YOLOv9-for-object-detection-and-counting-">
-🚗 <b>YOLOv9 Object Detection</b>
-</a>
-<br>
-YOLOv9-based object detection and counting using computer vision.
-
-</p>
 
 ### 📊 GitHub Stats
 

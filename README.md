@@ -22,6 +22,28 @@
 </div>
 
 <br>
+
+### 🧬 About Me
+
+Bioinformatician passionate about using computational biology, machine learning, and AI to solve biomedical problems the whole path, from raw reads and scans through to a model that survives cross-validation.
+
+- 🔬 **Cancer Genomics & Biomarker Discovery**
+- 🧬 **NGS & Multi-Omics Analysis**
+- 🩸 **RNA-seq & Genomic Variant Analysis**
+- 🤖 **Machine & Deep Learning**
+- 🩻 **Biomedical Image Analysis**
+- 🕸️ **Network & Computational Biology**
+
+<br>
+
+### 🛠️ Tech Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,sklearn,linux,bash,git,docker,vscode,flask,matlab&theme=dark" alt="Tech stack icons: Python, R, TensorFlow, PyTorch, scikit-learn, Linux, Bash, Git, Docker, VS Code, Flask, MATLAB" />
+</div>
+
+<br>
+
 <h2 align="center">🚀 Featured Projects</h2>
 
 <table align="center">
@@ -93,28 +115,6 @@ YOLOv9-based object detection and counting using modern computer vision techniqu
 </td>
 </tr>
 </table>
-### 🧬 About Me
-
-Bioinformatician passionate about using computational biology, machine learning, and AI to solve biomedical problems the whole path, from raw reads and scans through to a model that survives cross-validation.
-
-- 🔬 **Cancer Genomics & Biomarker Discovery**
-- 🧬 **NGS & Multi-Omics Analysis**
-- 🩸 **RNA-seq & Genomic Variant Analysis**
-- 🤖 **Machine & Deep Learning**
-- 🩻 **Biomedical Image Analysis**
-- 🕸️ **Network & Computational Biology**
-
-<br>
-
-### 🛠️ Tech Stack
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,sklearn,linux,bash,git,docker,vscode,flask,matlab&theme=dark" alt="Tech stack icons: Python, R, TensorFlow, PyTorch, scikit-learn, Linux, Bash, Git, Docker, VS Code, Flask, MATLAB" />
-</div>
-
-<br>
-
-
 
 ### 📊 GitHub Stats
 

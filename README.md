@@ -46,25 +46,105 @@ Bioinformatician passionate about using computational biology, machine learning,
 
 ### 🚀 Featured Projects
 
-<p align="center">
+### 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" align="center">
 
 <a href="https://github.com/Bioinformatician-dev/DNA-Sequence-Classification-Using-Deep-Learning">
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=Bioinformatician-dev&repo=DNA-Sequence-Classification-Using-Deep-Learning&theme=radical&hide_border=true" alt="Repo card: DNA Sequence Classification Using Deep Learning" />
+<img src="./assets/projects/dna-classification.png"
+     width="95%"
+     alt="DNA Sequence Classification Using Deep Learning" />
 </a>
+
+<h3>🧬 DNA Sequence Classification</h3>
+
+<p>
+Deep learning-based classification of DNA sequences using Python.
+</p>
+
+<a href="https://github.com/Bioinformatician-dev/DNA-Sequence-Classification-Using-Deep-Learning">
+<img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge&logo=github&logoColor=white"
+     alt="View DNA Sequence Classification project" />
+</a>
+
+</td>
+
+<td width="50%" align="center">
 
 <a href="https://github.com/Bioinformatician-dev/Biomedical-images-analysis-CNN">
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=Bioinformatician-dev&repo=Biomedical-images-analysis-CNN&theme=radical&hide_border=true" alt="Repo card: Biomedical Images Analysis CNN" />
+<img src="./assets/projects/biomedical-cnn.png"
+     width="95%"
+     alt="Biomedical Images Analysis CNN" />
 </a>
+
+<h3>🩻 Biomedical Images Analysis</h3>
+
+<p>
+CNN-based analysis and classification of biomedical images.
+</p>
+
+<a href="https://github.com/Bioinformatician-dev/Biomedical-images-analysis-CNN">
+<img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge&logo=github&logoColor=white"
+     alt="View Biomedical Images Analysis project" />
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
 
 <a href="https://github.com/Bioinformatician-dev/variant-classification">
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=Bioinformatician-dev&repo=variant-classification&theme=radical&hide_border=true" alt="Repo card: Variant Classification" />
+<img src="./assets/projects/variant-classification.png"
+     width="95%"
+     alt="Genetic Variant Classification" />
 </a>
+
+<h3>🧬 Variant Classification</h3>
+
+<p>
+Machine learning approaches for genetic variant classification.
+</p>
+
+<a href="https://github.com/Bioinformatician-dev/variant-classification">
+<img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge&logo=github&logoColor=white"
+     alt="View Variant Classification project" />
+</a>
+
+</td>
+
+<td width="50%" align="center">
 
 <a href="https://github.com/Bioinformatician-dev/YOLOv9-for-object-detection-and-counting-">
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=Bioinformatician-dev&repo=YOLOv9-for-object-detection-and-counting-&theme=radical&hide_border=true" alt="Repo card: YOLOv9 for Object Detection and Counting" />
+<img src="./assets/projects/yolov9-detection.png"
+     width="95%"
+     alt="YOLOv9 Object Detection and Counting" />
 </a>
 
+<h3>🚗 YOLOv9 Object Detection</h3>
+
+<p>
+YOLOv9-based object detection and counting using computer vision.
 </p>
+
+<a href="https://github.com/Bioinformatician-dev/YOLOv9-for-object-detection-and-counting-">
+<img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge&logo=github&logoColor=white"
+     alt="View YOLOv9 Object Detection project" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 <br>
 

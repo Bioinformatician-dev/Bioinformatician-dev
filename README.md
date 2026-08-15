@@ -45,38 +45,27 @@ Bioinformatician passionate about using computational biology, machine learning,
 <br>
 
 ### 🚀 Featured Projects
-### 🚀 Featured Projects
+
 
 <p align="center">
 
 <a href="https://github.com/Bioinformatician-dev/DNA-Sequence-Classification-Using-Deep-Learning">
-<img src="./assets/projects/dna-classification.png"
-     width="48%"
-     alt="DNA Sequence Classification Using Deep Learning" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Bioinformatician-dev&repo=DNA-Sequence-Classification-Using-Deep-Learning&theme=radical&hide_border=true" alt="Repo card: DNA Sequence Classification Using Deep Learning" />
 </a>
 
 <a href="https://github.com/Bioinformatician-dev/Biomedical-images-analysis-CNN">
-<img src="./assets/projects/biomedical-cnn.png"
-     width="48%"
-     alt="Biomedical Images Analysis CNN" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Bioinformatician-dev&repo=Biomedical-images-analysis-CNN&theme=radical&hide_border=true" alt="Repo card: Biomedical Images Analysis CNN" />
 </a>
 
-<br>
-
 <a href="https://github.com/Bioinformatician-dev/variant-classification">
-<img src="./assets/projects/variant-classification.png"
-     width="48%"
-     alt="Variant Classification" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Bioinformatician-dev&repo=variant-classification&theme=radical&hide_border=true" alt="Repo card: Variant Classification" />
 </a>
 
 <a href="https://github.com/Bioinformatician-dev/YOLOv9-for-object-detection-and-counting-">
-<img src="./assets/projects/yolov9-detection.png"
-     width="48%"
-     alt="YOLOv9 Object Detection and Counting" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Bioinformatician-dev&repo=YOLOv9-for-object-detection-and-counting-&theme=radical&hide_border=true" alt="Repo card: YOLOv9 for Object Detection and Counting" />
 </a>
 
 </p>
-
 
 ### 📊 GitHub Stats
 

@@ -47,18 +47,23 @@ Bioinformatician passionate about using computational biology, machine learning,
 ### 🚀 Featured Projects
 
 <p align="center">
+
 <a href="https://github.com/Bioinformatician-dev/DNA-Sequence-Classification-Using-Deep-Learning">
 <img src="https://github-stats-extended.vercel.app/api/pin/?username=Bioinformatician-dev&repo=DNA-Sequence-Classification-Using-Deep-Learning&theme=radical&hide_border=true" alt="Repo card: DNA Sequence Classification Using Deep Learning" />
 </a>
+
 <a href="https://github.com/Bioinformatician-dev/Biomedical-images-analysis-CNN">
 <img src="https://github-stats-extended.vercel.app/api/pin/?username=Bioinformatician-dev&repo=Biomedical-images-analysis-CNN&theme=radical&hide_border=true" alt="Repo card: Biomedical Images Analysis CNN" />
 </a>
+
 <a href="https://github.com/Bioinformatician-dev/variant-classification">
 <img src="https://github-stats-extended.vercel.app/api/pin/?username=Bioinformatician-dev&repo=variant-classification&theme=radical&hide_border=true" alt="Repo card: Variant Classification" />
 </a>
+
 <a href="https://github.com/Bioinformatician-dev/YOLOv9-for-object-detection-and-counting-">
 <img src="https://github-stats-extended.vercel.app/api/pin/?username=Bioinformatician-dev&repo=YOLOv9-for-object-detection-and-counting-&theme=radical&hide_border=true" alt="Repo card: YOLOv9 for Object Detection and Counting" />
 </a>
+
 </p>
 
 <br>
